@@ -1,0 +1,18 @@
+first start off with a deck of cards... giving each card a point, 1-11 and storing 4 values = to 10 for the face cards
+
+deal two cards to the user
+
+deal two cards to the dealer but one must be not visable to the user
+
+after all cards have been delt, ask the user if they wish to stay or hit
+
+if they wish to hit, deal them another random card from the desk, then ask the stay/hot question again unthil they stay or bust
+
+user will bust if the total amt of their cards is over 21
+
+-----------
+
+if users cards are not over 21 and they choose to stay
+
+the dealer must "hit" until they have 17 or more total values
+if the dealer hits over 21, they bust
